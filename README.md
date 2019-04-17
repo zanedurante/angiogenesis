@@ -2,8 +2,7 @@
 Windows Desktop Application for Angiogenesis Analysis.
 
 ### Background
-This application was used to analyze blood vessel growth in microscope images.  This resulted in a paper that was published in the American Diabetes Association.  See http://diabetes.diabetesjournals.org/content/67/Supplement_1/481-P and .  
-
+This application was used to analyze blood vessel growth in microscope images.  This resulted in a paper that was published in the American Diabetes Association.  See http://diabetes.diabetesjournals.org/content/67/Supplement_1/481-P.  
 
 ### Instructions to run
 This project was completed using Microsoft Visual Studio 2017.  To open the project, open the `Angionalysis.sln` file in `Angionalysis/`.  Then, debug the project within Visual Studio itself or export it as an exe file.
